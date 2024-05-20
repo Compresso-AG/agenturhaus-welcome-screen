@@ -14,8 +14,8 @@ To set up and run the website on an iPad, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/agency-welcome-screen.git
-    cd agency-welcome-screen
+    git clone https://github.com/Compresso-AG/agenturhaus-welcome-screen.git
+    cd agenturhaus-welcome-screen
     ```
 
 2. **Prepare the Video**:
